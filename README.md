@@ -8,7 +8,7 @@ Auto-connect and auto-reconnect helper for AllStarLink / ASL3 nodes.
 ## Install
 
 ```bash
-git clone https://github.com/YOURUSERNAME/asl3-autolink.git
+git clone https://github.com/ElectricalFlo/asl3-autolink.git
 cd asl3-autolink
 sudo bash install.sh
 
