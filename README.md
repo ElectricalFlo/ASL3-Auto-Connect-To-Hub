@@ -28,6 +28,7 @@ Creates a local config file at /etc/asl3-autolink.conf
 ⚠️ At this point, nothing is configured yet.
 
 2️⃣ Edit your local configuration file
+
 Now configure it on your node:
 ````bash
 sudo nano /etc/asl3-autolink.conf
