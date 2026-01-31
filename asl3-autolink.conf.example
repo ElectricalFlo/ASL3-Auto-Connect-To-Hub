@@ -1,0 +1,18 @@
+# ASL3 AutoLink config
+# Copy to: /etc/asl3-autolink.conf
+
+LOCAL_NODE="YOURNODENUMBER"
+TARGET_NODE="12345"
+
+# Most AllStar nodes: *3 = connect
+CONNECT_CODE="*3"
+
+# How often to check link state (seconds)
+CHECK_INTERVAL="10"
+
+# Extra delay after boot before first attempt (seconds)
+BOOT_GRACE="15"
+
+# Retries each time a link is found down
+CONNECT_RETRIES="2"
+RETRY_DELAY="2"
