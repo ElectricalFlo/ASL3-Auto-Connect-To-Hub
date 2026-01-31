@@ -2,7 +2,7 @@
 # Copy to: /etc/asl3-autolink.conf
 
 LOCAL_NODE="YOURNODENUMBER"
-TARGET_NODE="12345"
+TARGET_NODE="HubYouWantToConnectTo"
 
 # Most AllStar nodes: *3 = connect
 CONNECT_CODE="*3"
