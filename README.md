@@ -1,4 +1,4 @@
-##Step One: Make sure you have git installed on your node
+### Step One: Make sure you have git installed on your node
 ````bash
 sudo apt update
 sudo apt install -y git
