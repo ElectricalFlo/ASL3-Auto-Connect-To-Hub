@@ -74,7 +74,7 @@ If you still see YOURNODENUMBER in the logs, your config wasn’t loaded yet —
 ````bash
 sudo systemctl restart asl3-autolink.service
 ````
-## Congrats! You have successfully congigured your node to automatically connect to your favorite hub/node
+## Congrats! You have successfully configured your node to automatically connect to your favorite hub/node
 
 You can always configure your asl3-autolink.conf to change what node/hub you autoconnect to.
 ````bash
